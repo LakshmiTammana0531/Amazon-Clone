@@ -2,7 +2,7 @@
 This is a small clone project done to showcase the frontend development using the HTML and CSS.  
 This project was created to practice responsive web design, layouts, and styling concepts.
 
-Features
+# Features
 - Amazon-style navigation bar
 - Search bar UI
 - Product sections
@@ -10,30 +10,30 @@ Features
 - Footer section
 - Responsive design basics
 
-Technologies Used
+# Technologies Used
 - HTML5
 - CSS3
 
-Project Structure
+# Project Structure
 amazon-clone/
 │── index.html
 │── style.css
 │── images/
 
-How to Run
+# How to Run
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
- Learning Outcomes
+# Learning Outcomes
 - Improved HTML structure skills
 - Practiced CSS Flexbox/Grid
 - Learned webpage layout designing
 - Built a real-world frontend project
 
- Future Improvements
+# Future Improvements
 - Add JavaScript functionality
 - Add responsive mobile design
 - Add login and cart functionality
 
- Acknowledgement
+# Acknowledgement
 This project is created for learning and educational purposes only.
