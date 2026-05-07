@@ -17,8 +17,8 @@ This project was created to practice responsive web design, layouts, and styling
 # Project Structure
 amazon-clone/<br>
 │── index.html<br>
-│── style.css
-│── images/
+│── style.css<br>
+│── images/<br>
 
 # How to Run
 1. Download or clone the repository
