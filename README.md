@@ -15,8 +15,8 @@ This project was created to practice responsive web design, layouts, and styling
 - CSS3
 
 # Project Structure
-amazon-clone/
-│── index.html
+amazon-clone/<br>
+│── index.html<br>
 │── style.css
 │── images/
 
