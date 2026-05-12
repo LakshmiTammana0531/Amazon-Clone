@@ -10,6 +10,11 @@ This project was created to practice responsive web design, layouts, and styling
 - Footer section
 - Responsive design basics
 
+## Homepage UI
+![Amazon Clone](Screenshot1.png)
+![Amazon Clone](Screenshot2.png)
+![Amazon Clone](Screenshot3.png)
+
 # Technologies Used
 - HTML5
 - CSS3
