@@ -12,7 +12,7 @@ This project was created to practice responsive web design, layouts, and styling
 
 ## Homepage UI
 ![Amazon Clone](Screenshot1.png)
-![Amazon Clone](Screenshot2.png)
+![Amazon Clone](screenshot2.png)
 ![Amazon Clone](Screenshot3.png)
 
 # Technologies Used
