@@ -14,9 +14,7 @@ This project was created to practice responsive web design, layouts, and styling
 ![Amazon Clone](Screenshot01.png)
 ![Amazon Clone](Screenshot02.png)
 ![Amazon Clone](Screenshot03.png)
-
-
-
+![Amazon Clone](Screenshot04.png)
 
 # Technologies Used
 - HTML5
