@@ -11,7 +11,7 @@ This project was created to practice responsive web design, layouts, and styling
 - Responsive design basics
 
 ## Homepage UI
-![Amazon Clone](Screenshot1.png)
+![Amazon Clone](Screenshot01.png)
 
 
 
